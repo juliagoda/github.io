@@ -1,0 +1,11 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/night.css");
+
+code span.dt { text-decoration: none; font-style: italic; }
+.reveal p { margin-bottom: 1em; text-align: left; }
+.reveal pre > code,
+.reveal pre { background-color: #111111; margin-bottom: 2em; }
+.reveal code { padding-left: 0.1em; padding-right: 0.1em; }
+.reveal h1 { font-size: 250%; line-height: 1.1em; }
+.reveal pre > code { font-size: 140%; line-height: 160%; }
+.reveal table { margin-right: auto; margin-left: auto; }
+#slides-center-site { position: absolute; top: 20%; }
