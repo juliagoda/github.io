@@ -1,0 +1,107 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/night.css");
+
+
+body {
+    margin: 0 auto;
+}
+
+
+
+#slides-center-site { position: relative; text-align: center; width: 100%; padding: 0; margin: 0 auto; bottom: 0; }
+#slides-id { position: absolute; width: 50%; margin: 0 auto; display: block; text-align: center;  }
+.present { width: auto; margin: 0 auto; text-align: center; }
+#navigation-left { position: fixed;  }
+#navigation-right { position: fixed; }
+div.navigations { z-index: 999;  text-decoration: none; display: inline-block;}
+div.navigations:hover { border-radius: 50%; cursor: pointer; }
+
+
+@media screen and (max-width : 1366px)
+{
+#slides-center-site { top: 3%; }
+#navigation-left { bottom: 50px; right: 100px; }
+#navigation-right { bottom: 50px; right: 40px; }
+div.navigations { font-size: 150%; margin: 16px 16px 16px 16px;}
+.reveal h1 { font-size: 200%; }
+.reveal h2 { font-size: 150%; }
+.reveal h3 { font-size: 100%; }
+.reveal h5 { font-size: 70%; }
+.reveal p { font-size: 70%;  }
+.reveal img { zoom: 0.75; }
+.reveal th { font-size: 70%; }
+.reveal td { font-size: 70%; }
+.reveal li { font-size: 70%; }
+#why-it-question { left: 0; top: 50%; right: 0; bottom: 50%; }
+
+html, body {
+    height: 768px;
+}
+}
+
+@media screen and (max-width : 1280px)
+{
+#slides-center-site { top: 2%; }
+#navigation-left { bottom: 50px; right: 100px; }
+#navigation-right { bottom: 50px; right: 40px; }
+div.navigations { font-size: 150%; margin: 16px 16px 16px 16px;}
+.reveal h1 { font-size: 190%; }
+.reveal h2 { font-size: 140%; }
+.reveal h3 { font-size: 90%; }
+.reveal h5 { font-size: 70%; }
+.reveal p { font-size: 65%;  }
+.reveal img { zoom: 0.75; }
+.reveal th { font-size: 65%; }
+.reveal td { font-size: 65%; }
+.reveal li { font-size: 65%; }
+#why-it-question { left: 0; top: 50%; right: 0; bottom: 50%; }
+
+html, body {
+    height: 720px;
+}
+}
+
+
+@media screen and (max-width : 1024px)
+{
+#slides-center-site { top: 2%; }
+#navigation-left { bottom: 50px; right: 100px; }
+#navigation-right { bottom: 50px; right: 40px; }
+div.navigations { font-size: 150%; margin: 8px 8px 8px 8px;}
+.reveal h1 { font-size: 190%; }
+.reveal h2 { font-size: 140%; }
+.reveal h3 { font-size: 90%; }
+.reveal h5 { font-size: 70%; }
+.reveal p { font-size: 65%;  }
+.reveal img { zoom: 0.75; }
+.reveal th { font-size: 60%; }
+.reveal td { font-size: 60%; }
+.reveal li { font-size: 60%; }
+#why-it-question { left: 0; top: 50%; right: 0; bottom: 50%; }
+
+html, body {
+    height: 768px;
+}
+}
+
+@media screen and (max-width : 800px)
+{
+#slides-center-site { top: 3%; }
+#navigation-left { bottom: 25px; right: 50px; }
+#navigation-right { bottom: 25px; right: 20px; }
+div.navigations { font-size: 80%; margin: 8px 8px 8px 8px;}
+.reveal h1 { font-size: 130%; }
+.reveal h2 { font-size: 110%; }
+.reveal h3 { font-size: 40%; }
+.reveal h4 { font-size: 40%; }
+.reveal h5 { font-size: 35%; }
+.reveal p { font-size: 47%;  }
+.reveal img { width: 90%; height:20% }
+.reveal th { font-size: 45%; }
+.reveal td { font-size: 45%; }
+.reveal li { font-size: 45%; }
+
+html, body {
+    height: 600px;
+    overflow: auto;
+}
+}
