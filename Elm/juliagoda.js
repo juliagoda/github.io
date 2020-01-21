@@ -8729,7 +8729,7 @@ var $author$project$Sections$section13 = A2(
 							$rtfeldman$elm_css$Html$Styled$img,
 							_List_fromArray(
 								[
-									$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/visitors-tutorial.png')
+									$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/visitors-tutorial.png')
 								]),
 							_List_Nil)
 						]))
@@ -8980,7 +8980,7 @@ var $author$project$Sections$section4 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github1.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github1.png')
 						]),
 					_List_Nil),
 					A2($rtfeldman$elm_css$Html$Styled$br, _List_Nil, _List_Nil),
@@ -8988,7 +8988,7 @@ var $author$project$Sections$section4 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github2.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github2.png')
 						]),
 					_List_Nil),
 					A2($rtfeldman$elm_css$Html$Styled$br, _List_Nil, _List_Nil),
@@ -8996,7 +8996,7 @@ var $author$project$Sections$section4 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github3.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github3.png')
 						]),
 					_List_Nil),
 					A2($rtfeldman$elm_css$Html$Styled$br, _List_Nil, _List_Nil),
@@ -9004,7 +9004,7 @@ var $author$project$Sections$section4 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github4.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github4.png')
 						]),
 					_List_Nil)
 				]))
@@ -9028,7 +9028,7 @@ var $author$project$Sections$section5 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github5.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github5.png')
 						]),
 					_List_Nil),
 					A2($rtfeldman$elm_css$Html$Styled$br, _List_Nil, _List_Nil),
@@ -9036,7 +9036,7 @@ var $author$project$Sections$section5 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github6.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github6.png')
 						]),
 					_List_Nil),
 					A2($rtfeldman$elm_css$Html$Styled$br, _List_Nil, _List_Nil),
@@ -9044,7 +9044,7 @@ var $author$project$Sections$section5 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github7.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github7.png')
 						]),
 					_List_Nil),
 					A2($rtfeldman$elm_css$Html$Styled$br, _List_Nil, _List_Nil),
@@ -9052,7 +9052,7 @@ var $author$project$Sections$section5 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/github8.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/github8.png')
 						]),
 					_List_Nil)
 				]))
@@ -9086,7 +9086,7 @@ var $author$project$Sections$section6 = A2(
 					$rtfeldman$elm_css$Html$Styled$img,
 					_List_fromArray(
 						[
-							$rtfeldman$elm_css$Html$Styled$Attributes$src('./juliagoda_portfolio_files/visitors-antimicrox.png')
+							$rtfeldman$elm_css$Html$Styled$Attributes$src('../juliagoda_portfolio_files/visitors-antimicrox.png')
 						]),
 					_List_Nil)
 				]))
