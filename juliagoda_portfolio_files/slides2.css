@@ -30,7 +30,7 @@
 {    
     #langsLabel
     {
-        width: 50%;
+        width: 60%;
         height: 5%;
     }
 }
@@ -43,7 +43,7 @@
     }
 }
 
-@media (max-width: 1027px) 
+@media screen and (max-width: 1027px) , screen and (min-width: 553px)
 {    
     #langsLabel
     {
