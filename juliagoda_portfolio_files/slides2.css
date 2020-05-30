@@ -26,14 +26,6 @@
     cursor: pointer;
 }
 
-@media (max-width: 360px) 
-{    
-    #langsLabel
-    {
-        width: 35%;
-    }
-}
-
 @media screen and (min-height: 639px) , screen and (max-width: 552px) 
 {    
     #langsLabel
