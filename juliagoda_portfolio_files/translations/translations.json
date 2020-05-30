@@ -143,6 +143,21 @@
 			"en": "may 2019 - until now",
 			"pl": "maj 2019 - obecnie"
 		},
+		"tester-activities-table":
+		{
+            "en": "Activity as a tester",
+			"pl": "Aktywność jako tester"
+		},
+		"tester-activities-table-utest":
+		{
+            "en": "account on uTest",
+			"pl": "konto na uTest"
+		},
+		"tester-activities-table-utest-time":
+		{
+            "en": "as of May 09 2020",
+			"pl": "od 9 maja 2020 roku"
+		},
 		"other-langs-introduction": 
 		{
 			"en": "Of course, not only I know what Haskell and C/C++ are. However, both are presented in the form of a table, because I work on them every day.",
