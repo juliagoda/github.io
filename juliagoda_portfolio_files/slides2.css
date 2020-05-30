@@ -1,5 +1,68 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/night.css");
 
+
+#langsLabel
+{
+    position: fixed;
+    width: 20%;
+    height: 11%;
+    padding: 20px;
+    z-index: 999;
+    right: 10px;
+    top: 5px;
+}
+
+#langsLabel .langicon { 
+
+    z-index: 999;  
+    text-decoration: none; 
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+    margin: 10px;
+}
+
+#langsLabel .langicon:hover {
+    cursor: pointer;
+}
+
+@media screen and (min-height: 639px) , screen and (max-width: 552px) 
+{    
+    #langsLabel
+    {
+        height: 7%;
+    }
+}
+
+@media (max-width: 1027px) 
+{    
+    #langsLabel
+    {
+        width: 25%;
+    }
+}
+
+#why-it-section
+{
+    font-size: 90%;
+}
+
+#why-it-section-2
+{
+    font-size: 90%;
+}
+
+#other-languages-2
+{
+    font-size: 90%;
+}
+
+#c-table
+{
+    font-size: 90%;
+}
+
+
 code span.dt { text-decoration: none; font-style: italic; }
 .reveal p { margin-bottom: 1em; text-align: left; }
 .reveal pre > code,

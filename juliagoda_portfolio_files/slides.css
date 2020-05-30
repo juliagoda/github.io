@@ -11,17 +11,17 @@
   vertical-align:baseline;
 }
 
+
+html {
+    height: 100%;
+}
+
 body {
   background: #111;
   background-color: #111;
   color: #fff;
   height: 100%;
 }
-
-html {
-    height: 100%;
-}
-
 
 
 #slides-center-site { display: flex; text-align: center; width: 100%; height: 50%; align-items: center; justify-content: center; padding: 0; top: 50%;}
