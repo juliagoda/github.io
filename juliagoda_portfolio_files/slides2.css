@@ -31,7 +31,7 @@
     #langsLabel
     {
         width: 60%;
-        height: 5%;
+        height: 3%;
     }
     
     #langsLabel .langicon { 
@@ -41,7 +41,7 @@
     display: inline-block;
     width: 20%;
     height: 100%;
-    margin: 2px;
+    margin: 5px;
     }
 }
 
