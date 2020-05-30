@@ -1,297 +1,241 @@
 {
-	"default_language": "en",
-	"languages": ["en", "pl"],
-	"translations": 
-	{
-		"title-portfolio": 
-		{
-			"en": "Portfolio",
-			"pl": "Portfolio"
-		},
-		"title-name": 
-		{
-			"en": "Jagoda \"juliagoda\" Górska",
-			"pl": "Jagoda \"juliagoda\" Górska"
-		},
-		"title-programmer": 
-		{
-			"en": "Programmer",
-			"pl": "Programistka"
-		},
-		"short-about-myself-title": 
-		{
-			"en": "About myself in a nutshell",
-			"pl": "Krótko o sobie"
-		},
-		"short-about-myself": 
-		{
-			"en": "I've been a C++ and Haskell programmer for several years. I am involved in learning new technologies and working methods, implementing them into my projects. I am also a graduate of the University of Economics and Computer Science in Krakow. My thesis concerned the application of purely functional languages in business. I use Linux on a daily basis and I do everything on it, including working on projects.",
-			"pl": "Jestem od kilku lat programistką C++ i Haskell. Na co dzień zajmuję się nauką nowych technologii oraz metod pracy, wdrażając je do swoich projektów. Jestem także absolwentką Wyższej Szkoły Ekonomii i Informatyki w Krakowie. Moja praca dyplomowa dotyczyła zastosowań języków czysto funkcyjnych w biznesie. Na co dzień używam systemu Linux i to na nim robię wszystko na co dzień, łącznie z pracą nad projektami."
-		},
-		"short-about-myself-next": 
-		{
-			"en": "When I work, I give my best and it gives me incredible satisfaction and knowledge",
-			"pl": "Podczas pracy daję z siebie wszystko i daje mi to w rezultacie niesamowitą satysfakcję i wiedzę"
-		},
-		"antimicrox-cloners-github":
-		{
-            "en": "Traffic for antimicroX",
-            "pl": "Ruch dla antimicroX"
-        },
-		"c-activities-table": 
-		{
-			"en": "C/C++ activities",
-			"pl": "Aktywności dotyczące C/C++"
-		},
-		"c-activities-table-codesignal": 
-		{
-			"en": "account on CodeSignal",
-			"pl": "konto na CodeSignal"
-		},
-		"c-activities-table-codesignal-time": 
-		{
-			"en": "august 2019 - until now",
-			"pl": "sierpień 2019 - obecnie"
-		},
-		"activities-link": 
-		{
-			"en": "Link",
-			"pl": "Link"
-		},
-		"c-activities-table-hackerrank": 
-		{
-			"en": "account on Hackerrank",
-			"pl": "konto na Hackerrank"
-		},
-		"c-activities-table-hackerrank-time": 
-		{
-			"en": "january 2020 - until now",
-			"pl": "styczeń 2020 - obecnie"
-		},
-		"c-activities-table-qfaktury": 
-		{
-			"en": "QFaktury application",
-			"pl": "program QFaktury"
-		},
-		"c-activities-table-qfaktury-time": 
-		{
-			"en": "december 2016 - august 2018",
-			"pl": "grudzień 2016 - sierpień 2018"
-		},
-		"c-activities-table-antimicrox": 
-		{
-			"en": "antimicroX application",
-			"pl": "program antimicroX"
-		},
-		"c-activities-table-antimicrox-time": 
-		{
-			"en": "march 2018 - until now",
-			"pl": "marzec 2018 - obecnie"
-		},
-		"c-activities-table-script": 
-		{
-			"en": "SDL_JoystickButtonNames script",
-			"pl": "skrypt SDL_JoystickButtonNames"
-		},
-		"c-activities-table-script-time": 
-		{
-			"en": "april 2018 - october 2018",
-			"pl": "kwiecień 2018 - październik 2018"
-		},
-		"haskell-activities-table": 
-		{
-			"en": "Haskell activities",
-			"pl": "Aktywności dotyczące Haskell"
-		},
-		"haskell-activities-table-exercism": 
-		{
-			"en": "account on Exercism",
-			"pl": "konto na Exercism"
-		},
-		"haskell-activities-table-exercism-time": 
-		{
-			"en": "as of october 2019",
-			"pl": "od października 2019"
-		},
-		"haskell-activities-table-givenfind": 
-		{
-			"en": "GivenFind script",
-			"pl": "skrypt GivenFind"
-		},
-		"haskell-activities-table-givenfind-time": 
-		{
-			"en": "march 2017 - november 2017",
-			"pl": "marzec 2017 - listopad 2017"
-		},
-		"haskell-activities-table-hasdoc": 
-		{
-			"en": "Hasdoc application",
-			"pl": "program Hasdoc"
-		},
-		"haskell-activities-table-hasdoc-time": 
-		{
-			"en": "february 2019 - march 2019",
-			"pl": "luty 2019 - marzec 2019"
-		},
-		"haskell-activities-table-qtah": 
-		{
-			"en": "Qtah library (as a help for <a href=\"https://gitlab.com/khumba/qtah\"> Bryan Gardiner </a>)",
-			"pl": "biblioteka Qtah (jako pomoc dla <a href=\"https://gitlab.com/khumba/qtah\"> Bryan Gardiner </a>)"
-		},
-		"haskell-activities-table-qtah-time": 
-		{
-			"en": "may 2019 - until now",
-			"pl": "maj 2019 - obecnie"
-		},
-		"tester-activities-table":
-		{
-            "en": "Activity as a tester",
-			"pl": "Aktywność jako tester"
-		},
-		"tester-activities-table-utest":
-		{
-            "en": "account on uTest",
-			"pl": "konto na uTest"
-		},
-		"tester-activities-table-utest-time":
-		{
-            "en": "as of May 09 2020",
-			"pl": "od 9 maja 2020 roku"
-		},
-		"other-langs-introduction": 
-		{
-			"en": "Of course, not only I know what Haskell and C/C++ are. However, both are presented in the form of a table, because I work on them every day.",
-			"pl": "Oczywiście nie tylko znam i nie tylko wiem, co to jest Haskell i C/C++. Jednak zostały przedstawione w formie tabeli, ponieważ pracuję nad nimi na co dzień."
-		},
-		"other-langs-start": 
-		{
-			"en": "The other languages and technologies I've been dealing with:",
-			"pl": "Z innymi językami i technologiami, jakimi mam/miałam do czynienia to:"
-		},
-		"other-langs-htmlcssjs": 
-		{
-			"en": "HTML / CSS / JS -> in building this portfolio",
-			"pl": "HTML / CSS / JS -> przy budowie niniejszego portfolio"
-		},
-		"other-langs-nginx": 
-		{
-			"en": "Nginx -> for network settings for PHP operation",
-			"pl": "Nginx -> dla ustawień sieciowych do działania PHP"
-		},
-		"other-langs-bash": 
-		{
-			"en": "Bash -> as a help to generate class templates for Qtah, as a help to unlock module for PHP",
-			"pl": "Bash -> jako pomoc przy generowaniu szablonów klas dla Qtah, odblokowanie modułu dla PHP"
-		},
-		"other-langs-php": 
-		{
-			"en": "PHP -> for integration with the \"The Statistical Identification Number\" database",
-			"pl": "PHP -> do integracji z bazą REGON"
-		},
-		"other-langs-python": 
-		{
-			"en": "Python - to create a skeleton of the program based on PyQt5 - <a href=\"https://github.com/juliagoda/LabTests\"> Link </a>",
-			"pl": "Python -> do stworzenia szkieletu programu na bazie PyQt5 - <a href=\"https://github.com/juliagoda/LabTests\"> Link </a>"
-		},
-		"other-langs-c#": 
-		{
-			"en": "C# -> language required for 2 years at the university in almost every aspect",
-			"pl": "C# -> język wymagany przez 2 lata na uczelni w prawie każdym aspekcie"
-		},
-		"other-langs-prolog": 
-		{
-			"en": "Prolog - exercise for final paper",
-			"pl": "Prolog -> zadania na zaliczenie"
-		},
-		"other-langs-qt5": 
-		{
-			"en": "Qt5 on Qt Creator -> appears in most of my projects",
-			"pl": "Qt5 na Qt Creator -> pojawia się w większości projektów"
-		},
-		"other-langs-docker": 
-		{
-			"en": "Docker -> for containerization of applications on X11, Qt5 and C++ - <a href=\"https://hub.docker.com/r/juliagoda/antimicrox\"> Link </a>",
-			"pl": "Docker -> do konteneryzacji aplikacji na X11, Qt5 i C++ - <a href=\"https://hub.docker.com/r/juliagoda/antimicrox\"> Link </a>"
-		},
-		"other-langs-sql": 
-		{
-			"en": "Microsoft SQL Server -> from classes at the university, obtaining MTA 98-364 certificate: Database Fundamentals",
-			"pl": "Microsoft SQL Server -> z zajęć na uczelni, uzyskanie certyfikatu MTA 98-364: Database Fundamentals"
-		},
-		"other-langs-mvs": 
-		{
-			"en": "Microsoft Visual Studio/Visual Studio Code -> mainly used IDE at the university",
-			"pl": "Microsoft Visual Studio/Visual Studio Code -> główne narzędzie programowania na uczelni"
-		},
-		"other-langs-xml": 
-		{
-			"en": "XML / YAML / JSON -> ways of storing data in applications",
-			"pl": "XML / YAML / JSON -> sposoby przechowywania danych w aplikacjach"
-		},
-		"other-langs-cmake": 
-		{
-			"en": "CMake -> for C/C++ related applications",
-			"pl": "CMake -> przy aplikacjach związanych z C/C++"
-		},
-		"other-langs-git": 
-		{
-			"en": "git / Github or GitLab -> used very often",
-			"pl": "git / Github / GitLab -> używane bardzo często"
-		},
-		"tutorials-introduction": 
-		{
-			"en": "I am also good at preparing teaching materials, documentation and tutorials.",
-			"pl": "Sprawdzam się także przy przygotowywaniu materiałów dydaktycznych, dokumentacji oraz tutoriali"
-		},
-		"tutorials-documentation": 
-		{
-			"en": "Documentation",
-			"pl": "Dokumentacja"
-		},
-		"tutorials-tutorial": 
-		{
-			"en": "Tutorial",
-			"pl": "Tutorial"
-		},
-		"tutorials-work-description": 
-		{
-			"en": "Description of work",
-			"pl": "Opis działania"
-		},
-		"tutorials-schemas-set": 
-		{
-			"en": "Set of schemes",
-			"pl": "Zbiór schematów"
-		},
-		"tutorials-readers-count": 
-		{
-			"en": "Traffic for the tutorial",
-			"pl": "Ruch dla tutorialu"
-		},
-		"why-it-title": 
-		{
-			"en": "Why IT?",
-			"pl": "Dlaczego akurat IT?"
-		},
-		"why-it-page1": 
-		{
-			"en": "Generally speaking, I have always been fascinated by the technological world. As a teenager I was initially fascinated by game console structures, gamepads. When I was 18 years old I first had the courage to install the Linux distribution. So far I've used Linux Mint, Debian Testing, Ubuntu, Manjaro and for several years I've stayed with Arch Linux. In 2014 I decided to specialize in programming. The fact that only imagination limits the programming of anything made me choose this part of computer science to create and fix.",
-			"pl": "Generalnie rzecz biorąc, to od zawsze fascynował mnie świat technologiczny. Jako nastolatkę z początku fascynowały mnie struktury konsol do gier, gamepadów. Mając 18 lat pierwszy raz zdobyłam się na odwagę by zainstalować dystrybucję Linux. Do tej pory używałam Linux Mint, Debian Testing, Ubuntu, Manjaro, a od kilku lat pozostałam przy Arch Linux. W 2014 roku zdecydowałam, że wyspecjalizuję się w programowaniu. Fakt, że tylko wyobraźnia ogranicza programowanie czegokolwiek sprawiał, że wybrałam tę część informatyki, by tworzyć i naprawiać."
-		},
-		"why-it-page2": 
-		{
-			"en": "My first learning material for the first programming language was Larry Ullman's book, \"Modern JavaScript.\" A year later, I enrolled in the study program, which I completed with a very good grade for my thesis and a grade average. During my studies I had the opportunity to understand more precisely what algorithms are, to understand how the programming with the help of Arduino and combining electronic components looks like in practice, to learn Business Intelligence on the example of a selected set of data, how the database looks and works on Windows and more. All this will certainly allow me to make better choices when developing commercial applications.",
-			"pl": "Pierwszym moim materiałem do nauki pierwszego języka programowania była książka Larry'ego Ullman'a pod tytułem \"Nowoczesny język JavaScript\". Rok później zapisałam się na studia, które ukończyłam z oceną bardzo dobrą za pracę dyplomową jak i średnią z ocen. Podczas trwania studiów miałam okazję zrozumieć dokładniej, czym są algorytmy, zrozumieć jak wygląda w praktyce programowanie programatora z pomocą Arduino oraz łączenie komponentów elektronicznych, poznać Business Intelligence na przykładzie wybranego zbioru danych, jak wygląda i działa baza danych na systemie Windows i więcej. To wszystko z pewnością pozwoli mi na dokonywanie lepszych wyborów podczas tworzenia komercyjnych aplikacji."
-		},
-		"curriculum-vitaes-list": 
-		{
-			"en": "My Resume",
-			"pl": "Moje CV"
-		},
-		"contact-title": 
-		{
-			"en": "Contact",
-			"pl": "Kontakt"
-		}
-	}
+   "default_language":"en",
+   "languages":[
+      "en",
+      "pl"
+   ],
+   "translations":{
+      "title-portfolio":{
+         "en":"Portfolio",
+         "pl":"Portfolio"
+      },
+      "title-name":{
+         "en":"Jagoda \"juliagoda\" Górska",
+         "pl":"Jagoda \"juliagoda\" Górska"
+      },
+      "title-programmer":{
+         "en":"Programmer",
+         "pl":"Programistka"
+      },
+      "short-about-myself-title":{
+         "en":"About myself in a nutshell",
+         "pl":"Krótko o sobie"
+      },
+      "short-about-myself":{
+         "en":"I've been a C++ and Haskell programmer for several years. I am involved in learning new technologies and working methods, implementing them into my projects. I am also a graduate of the University of Economics and Computer Science in Krakow. My thesis concerned the application of purely functional languages in business. I use Linux on a daily basis and I do everything on it, including working on projects.",
+         "pl":"Jestem od kilku lat programistką C++ i Haskell. Na co dzień zajmuję się nauką nowych technologii oraz metod pracy, wdrażając je do swoich projektów. Jestem także absolwentką Wyższej Szkoły Ekonomii i Informatyki w Krakowie. Moja praca dyplomowa dotyczyła zastosowań języków czysto funkcyjnych w biznesie. Na co dzień używam systemu Linux i to na nim robię wszystko na co dzień, łącznie z pracą nad projektami."
+      },
+      "short-about-myself-next":{
+         "en":"When I work, I give my best and it gives me incredible satisfaction and knowledge",
+         "pl":"Podczas pracy daję z siebie wszystko i daje mi to w rezultacie niesamowitą satysfakcję i wiedzę"
+      },
+      "antimicrox-cloners-github":{
+         "en":"Traffic for antimicroX",
+         "pl":"Ruch dla antimicroX"
+      },
+      "c-activities-table":{
+         "en":"C/C++ activities",
+         "pl":"Aktywności dotyczące C/C++"
+      },
+      "c-activities-table-codesignal":{
+         "en":"account on CodeSignal",
+         "pl":"konto na CodeSignal"
+      },
+      "c-activities-table-codesignal-time":{
+         "en":"august 2019 - until now",
+         "pl":"sierpień 2019 - obecnie"
+      },
+      "activities-link":{
+         "en":"Link",
+         "pl":"Link"
+      },
+      "c-activities-table-hackerrank":{
+         "en":"account on Hackerrank",
+         "pl":"konto na Hackerrank"
+      },
+      "c-activities-table-hackerrank-time":{
+         "en":"january 2020 - until now",
+         "pl":"styczeń 2020 - obecnie"
+      },
+      "c-activities-table-qfaktury":{
+         "en":"QFaktury application",
+         "pl":"program QFaktury"
+      },
+      "c-activities-table-qfaktury-time":{
+         "en":"december 2016 - august 2018",
+         "pl":"grudzień 2016 - sierpień 2018"
+      },
+      "c-activities-table-antimicrox":{
+         "en":"antimicroX application",
+         "pl":"program antimicroX"
+      },
+      "c-activities-table-antimicrox-time":{
+         "en":"march 2018 - until now",
+         "pl":"marzec 2018 - obecnie"
+      },
+      "c-activities-table-script":{
+         "en":"SDL_JoystickButtonNames script",
+         "pl":"skrypt SDL_JoystickButtonNames"
+      },
+      "c-activities-table-script-time":{
+         "en":"april 2018 - october 2018",
+         "pl":"kwiecień 2018 - październik 2018"
+      },
+      "haskell-activities-table":{
+         "en":"Haskell activities",
+         "pl":"Aktywności dotyczące Haskell"
+      },
+      "haskell-activities-table-exercism":{
+         "en":"account on Exercism",
+         "pl":"konto na Exercism"
+      },
+      "haskell-activities-table-exercism-time":{
+         "en":"as of october 2019",
+         "pl":"od października 2019"
+      },
+      "haskell-activities-table-givenfind":{
+         "en":"GivenFind script",
+         "pl":"skrypt GivenFind"
+      },
+      "haskell-activities-table-givenfind-time":{
+         "en":"march 2017 - november 2017",
+         "pl":"marzec 2017 - listopad 2017"
+      },
+      "haskell-activities-table-hasdoc":{
+         "en":"Hasdoc application",
+         "pl":"program Hasdoc"
+      },
+      "haskell-activities-table-hasdoc-time":{
+         "en":"february 2019 - march 2019",
+         "pl":"luty 2019 - marzec 2019"
+      },
+      "haskell-activities-table-qtah":{
+         "en":"Qtah library (as a help for <a href=\"https://gitlab.com/khumba/qtah\"> Bryan Gardiner </a>)",
+         "pl":"biblioteka Qtah (jako pomoc dla <a href=\"https://gitlab.com/khumba/qtah\"> Bryan Gardiner </a>)"
+      },
+      "haskell-activities-table-qtah-time":{
+         "en":"may 2019 - until now",
+         "pl":"maj 2019 - obecnie"
+      },
+      "tester-activities-table":{
+         "en":"Activity as a tester",
+         "pl":"Aktywność jako tester"
+      },
+      "tester-activities-table-utest":{
+         "en":"account on uTest",
+         "pl":"konto na uTest"
+      },
+      "tester-activities-table-utest-time":{
+         "en":"as of May 09 2020",
+         "pl":"od 9 maja 2020 roku"
+      },
+      "other-langs-introduction":{
+         "en":"Of course, not only I know what Haskell and C/C++ are. However, both are presented in the form of a table, because I work on them every day.",
+         "pl":"Oczywiście nie tylko znam i nie tylko wiem, co to jest Haskell i C/C++. Jednak zostały przedstawione w formie tabeli, ponieważ pracuję nad nimi na co dzień."
+      },
+      "other-langs-start":{
+         "en":"The other languages and technologies I've been dealing with:",
+         "pl":"Z innymi językami i technologiami, jakimi mam/miałam do czynienia to:"
+      },
+      "other-langs-htmlcssjs":{
+         "en":"HTML / CSS / JS -> in building this portfolio",
+         "pl":"HTML / CSS / JS -> przy budowie niniejszego portfolio"
+      },
+      "other-langs-nginx":{
+         "en":"Nginx -> for network settings for PHP operation",
+         "pl":"Nginx -> dla ustawień sieciowych do działania PHP"
+      },
+      "other-langs-bash":{
+         "en":"Bash -> as a help to generate class templates for Qtah, as a help to unlock module for PHP",
+         "pl":"Bash -> jako pomoc przy generowaniu szablonów klas dla Qtah, odblokowanie modułu dla PHP"
+      },
+      "other-langs-php":{
+         "en":"PHP -> for integration with the \"The Statistical Identification Number\" database",
+         "pl":"PHP -> do integracji z bazą REGON"
+      },
+      "other-langs-python":{
+         "en":"Python - to create a skeleton of the program based on PyQt5 - <a href=\"https://github.com/juliagoda/LabTests\"> Link </a>",
+         "pl":"Python -> do stworzenia szkieletu programu na bazie PyQt5 - <a href=\"https://github.com/juliagoda/LabTests\"> Link </a>"
+      },
+      "other-langs-c#":{
+         "en":"C# -> language required for 2 years at the university in almost every aspect",
+         "pl":"C# -> język wymagany przez 2 lata na uczelni w prawie każdym aspekcie"
+      },
+      "other-langs-prolog":{
+         "en":"Prolog - exercise for final paper",
+         "pl":"Prolog -> zadania na zaliczenie"
+      },
+      "other-langs-qt5":{
+         "en":"Qt5 on Qt Creator -> appears in most of my projects",
+         "pl":"Qt5 na Qt Creator -> pojawia się w większości projektów"
+      },
+      "other-langs-docker":{
+         "en":"Docker -> for containerization of applications on X11, Qt5 and C++ - <a href=\"https://hub.docker.com/r/juliagoda/antimicrox\"> Link </a>",
+         "pl":"Docker -> do konteneryzacji aplikacji na X11, Qt5 i C++ - <a href=\"https://hub.docker.com/r/juliagoda/antimicrox\"> Link </a>"
+      },
+      "other-langs-sql":{
+         "en":"Microsoft SQL Server -> from classes at the university, obtaining MTA 98-364 certificate: Database Fundamentals",
+         "pl":"Microsoft SQL Server -> z zajęć na uczelni, uzyskanie certyfikatu MTA 98-364: Database Fundamentals"
+      },
+      "other-langs-mvs":{
+         "en":"Microsoft Visual Studio/Visual Studio Code -> mainly used IDE at the university",
+         "pl":"Microsoft Visual Studio/Visual Studio Code -> główne narzędzie programowania na uczelni"
+      },
+      "other-langs-xml":{
+         "en":"XML / YAML / JSON -> ways of storing data in applications",
+         "pl":"XML / YAML / JSON -> sposoby przechowywania danych w aplikacjach"
+      },
+      "other-langs-cmake":{
+         "en":"CMake -> for C/C++ related applications",
+         "pl":"CMake -> przy aplikacjach związanych z C/C++"
+      },
+      "other-langs-git":{
+         "en":"git / Github or GitLab -> used very often",
+         "pl":"git / Github / GitLab -> używane bardzo często"
+      },
+      "tutorials-introduction":{
+         "en":"I am also good at preparing teaching materials, documentation and tutorials.",
+         "pl":"Sprawdzam się także przy przygotowywaniu materiałów dydaktycznych, dokumentacji oraz tutoriali"
+      },
+      "tutorials-documentation":{
+         "en":"Documentation",
+         "pl":"Dokumentacja"
+      },
+      "tutorials-tutorial":{
+         "en":"Tutorial",
+         "pl":"Tutorial"
+      },
+      "tutorials-work-description":{
+         "en":"Description of work",
+         "pl":"Opis działania"
+      },
+      "tutorials-schemas-set":{
+         "en":"Set of schemes",
+         "pl":"Zbiór schematów"
+      },
+      "tutorials-readers-count":{
+         "en":"Traffic for the tutorial",
+         "pl":"Ruch dla tutorialu"
+      },
+      "why-it-title":{
+         "en":"Why IT?",
+         "pl":"Dlaczego akurat IT?"
+      },
+      "why-it-page1":{
+         "en":"Generally speaking, I have always been fascinated by the technological world. As a teenager I was initially fascinated by game console structures, gamepads. When I was 18 years old I first had the courage to install the Linux distribution. So far I've used Linux Mint, Debian Testing, Ubuntu, Manjaro and for several years I've stayed with Arch Linux. In 2014 I decided to specialize in programming. The fact that only imagination limits the programming of anything made me choose this part of computer science to create and fix.",
+         "pl":"Generalnie rzecz biorąc, to od zawsze fascynował mnie świat technologiczny. Jako nastolatkę z początku fascynowały mnie struktury konsol do gier, gamepadów. Mając 18 lat pierwszy raz zdobyłam się na odwagę by zainstalować dystrybucję Linux. Do tej pory używałam Linux Mint, Debian Testing, Ubuntu, Manjaro, a od kilku lat pozostałam przy Arch Linux. W 2014 roku zdecydowałam, że wyspecjalizuję się w programowaniu. Fakt, że tylko wyobraźnia ogranicza programowanie czegokolwiek sprawiał, że wybrałam tę część informatyki, by tworzyć i naprawiać."
+      },
+      "why-it-page2":{
+         "en":"My first learning material for the first programming language was Larry Ullman's book, \"Modern JavaScript.\" A year later, I enrolled in the study program, which I completed with a very good grade for my thesis and a grade average. During my studies I had the opportunity to understand more precisely what algorithms are, to understand how the programming with the help of Arduino and combining electronic components looks like in practice, to learn Business Intelligence on the example of a selected set of data, how the database looks and works on Windows and more. All this will certainly allow me to make better choices when developing commercial applications.",
+         "pl":"Pierwszym moim materiałem do nauki pierwszego języka programowania była książka Larry'ego Ullman'a pod tytułem \"Nowoczesny język JavaScript\". Rok później zapisałam się na studia, które ukończyłam z oceną bardzo dobrą za pracę dyplomową jak i średnią z ocen. Podczas trwania studiów miałam okazję zrozumieć dokładniej, czym są algorytmy, zrozumieć jak wygląda w praktyce programowanie programatora z pomocą Arduino oraz łączenie komponentów elektronicznych, poznać Business Intelligence na przykładzie wybranego zbioru danych, jak wygląda i działa baza danych na systemie Windows i więcej. To wszystko z pewnością pozwoli mi na dokonywanie lepszych wyborów podczas tworzenia komercyjnych aplikacji."
+      },
+      "curriculum-vitaes-list":{
+         "en":"My Resume",
+         "pl":"Moje CV"
+      },
+      "contact-title":{
+         "en":"Contact",
+         "pl":"Kontakt"
+      }
+   }
 }
