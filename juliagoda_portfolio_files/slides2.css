@@ -33,6 +33,16 @@
         width: 60%;
         height: 5%;
     }
+    
+    #langsLabel .langicon { 
+
+    z-index: 999;  
+    text-decoration: none; 
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    margin: 2px;
+    }
 }
 
 @media screen and (min-height: 639px) , screen and (max-width: 552px) , screen and (min-width: 420px) 
