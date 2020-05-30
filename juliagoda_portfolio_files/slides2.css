@@ -31,10 +31,11 @@
     #langsLabel
     {
         width: 40%;
+        height: 5%;
     }
 }
 
-@media screen and (min-height: 639px) , screen and (max-width: 552px) 
+@media screen and (min-height: 639px) , screen and (max-width: 552px) , screen and (min-width: 420px) 
 {    
     #langsLabel
     {
