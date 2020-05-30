@@ -30,7 +30,7 @@
 {    
     #langsLabel
     {
-        width: 60%;
+        width: 65%;
         height: 3%;
     }
     
@@ -39,7 +39,7 @@
     z-index: 999;  
     text-decoration: none; 
     display: inline-block;
-    width: 20%;
+    width: 30%;
     height: 100%;
     margin: 5px;
     }
