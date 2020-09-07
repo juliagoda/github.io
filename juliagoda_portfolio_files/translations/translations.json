@@ -33,6 +33,10 @@
          "en":"Traffic for antimicroX",
          "pl":"Ruch dla antimicroX"
       },
+      "tech-blog-title":{
+         "en":"Blog",
+         "pl":"Blog"
+      },
       "c-activities-table":{
          "en":"C/C++ activities",
          "pl":"Aktywności dotyczące C/C++"
